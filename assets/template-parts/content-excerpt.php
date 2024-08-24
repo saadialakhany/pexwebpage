@@ -1,0 +1,8 @@
+<?php
+/**
+ * Standard Excerpt Template
+ *
+ *
+ */
+?>
+
